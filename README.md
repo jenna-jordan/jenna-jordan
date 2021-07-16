@@ -1,4 +1,14 @@
-### Hi there 👋
+### About Me
+
+Hello! My name is Jenna Jordan, and I'm a data librarian/steward/engineer. I code primarily in Python and SQL, and my favorite (coding) thing to do is wrangle data into 3rd normal form. You can find out more about me and see some of my projects at: [jennajordan.me](https://jennajordan.me/)
+
+#### 📫 How to reach me:
+
+- email: jenna.jrdn@gmail.com
+- Twitter: [@JennaJrdn](https://twitter.com/JennaJrdn)
+- LinkedIn: [jennajordan1](https://www.linkedin.com/in/jennajordan1/)
+
+
 
 <!--
 **jenna-jordan/jenna-jordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
